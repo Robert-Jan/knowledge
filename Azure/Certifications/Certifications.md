@@ -1,0 +1,8 @@
+Microsoft has certification paths for many technical job roles. Each of these certifications consists of passing a series of exams to earn certification. Microsoft’s [[Azure]] certifications are role-based, with titles such as Azure Administrator, Azure Solution Architect, Azure Developer, and Azure AI Engineer. They’re organized into **4 levels: Fundamentals, Associate, Expert, and Specialty**. These certifications focus on building knowledge and skills related to job roles. They were designed with the engagement of the community in identifying the requirements for each role.
+
+I have completed or am in the process of obtaining the following certifications:
+- [[Azure Fundamentals (AZ-900)]] (Passed) The certification validates your basic knowledge of cloud services and how those services are provided with Azure. Candidates should be able to demonstrate a fundamental knowledge of cloud concepts, along with Azure services, workloads, security, privacy, pricing, and support.
+- [[Azure Developer Associate (AZ-204)]] (In progress) Candidates for this certification are responsible for participating in all phases of development, including requirements gathering, design, development, deployment, security, maintenance, performance tuning, and monitoring. They should be proficient in Azure: SDKs, data storage options, data connections, APIs, app authentication/authorization, compute/container deployment, and debugging.
+
+
+![[AzureCertificationsPath.png]]

@@ -1,0 +1,2 @@
+> A _Deployment_ provides declarative updates for [[Pods]] and [[ReplicaSets]]. You describe a _desired state_ in a Deployment, and the Deployment [Controller](https://kubernetes.io/docs/concepts/architecture/controller/) changes the actual state to the desired state at a controlled rate. You can define Deployments to create new ReplicaSets, or to remove existing Deployments and adopt all their resources with new Deployments.
+
